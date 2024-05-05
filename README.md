@@ -1,2 +1,2 @@
 # Desplegament-web
-Aquesta és una petita aplicació web feta amb PHP.
+Aquesta és una petita aplicació 
