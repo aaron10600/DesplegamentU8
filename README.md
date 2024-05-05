@@ -1,5 +1,5 @@
 
-# Project Title
+# Desplegament Web UT6
 
 Aquesta és una petita aplicació per poder afegir, modificar i eliminar productes d'una base de dades amb PHP
 
